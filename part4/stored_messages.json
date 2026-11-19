@@ -1,0 +1,18 @@
+[
+  {
+    "messageID": "7106675135",
+    "messageNumber": 2,
+    "sender": "nkateko hlungwane",
+    "recipient": "+27838884567",
+    "messageText": "Where are you? You are late! I have asked you to be on time.",
+    "messageHash": "71:2:WHERETIME"
+  },
+  {
+    "messageID": "2735772834",
+    "messageNumber": 5,
+    "sender": "nkateko hlungwane",
+    "recipient": "+27838884567",
+    "messageText": "Ok, I am leaving without you.",
+    "messageHash": "27:5:OKYOU"
+  }
+]
